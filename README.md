@@ -50,12 +50,12 @@ This research contributes to the advancement of landslide early warning systems,
 
 
 
-![image](Block diagram.png)
+![image](https://github.com/gowribharadwaj18/Landslide-Detection-System-using-Arduino-with-metal-strip-accelerometer-and-soil-moisture-sensing/blob/main/Block%20diagram.png?raw=true)
 
 
 
 
-![image](Flow chart.png)
+![image](https://github.com/gowribharadwaj18/Landslide-Detection-System-using-Arduino-with-metal-strip-accelerometer-and-soil-moisture-sensing/blob/main/Flow%20chart.png?raw=true)
 
 
 
