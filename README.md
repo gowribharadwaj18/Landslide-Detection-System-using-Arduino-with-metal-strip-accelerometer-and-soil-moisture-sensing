@@ -45,6 +45,20 @@ This research contributes to the advancement of landslide early warning systems,
    - Set thresholds for moisture content levels that may indicate increased landslide susceptibility.
 
 
+### Block Diagram
+
+
+
+
+![image](Block diagram.png)
+
+
+
+
+![image](Flow chart.png)
+
+
+
 # Working Principle :  
 
 The overall working principle of the mini-project work:
