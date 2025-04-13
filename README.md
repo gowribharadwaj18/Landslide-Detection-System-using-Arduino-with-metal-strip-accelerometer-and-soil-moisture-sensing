@@ -55,8 +55,6 @@ This research contributes to the advancement of landslide early warning systems,
 
 
 
-![image](https://github.com/gowribharadwaj18/Landslide-Detection-System-using-Arduino-with-metal-strip-accelerometer-and-soil-moisture-sensing/blob/main/Flow%20chart.png?raw=true)
-
 
 
 # Working Principle :  
@@ -76,6 +74,11 @@ When such a situation is identified, the system triggers an alert. This alert ca
 During deployment, careful positioning of the sensors and secure connections are essential. Additionally, the system may require calibration to fine-tune the threshold values based on the specific environmental conditions of the deployment site.
 
 This system provides early warnings of potential landslides. This capability is particularly valuable in regions prone to landslides, where early detection can be a critical factor in averting disasters and protecting lives and property.
+
+### Flow Chart:
+
+![image](https://github.com/gowribharadwaj18/Landslide-Detection-System-using-Arduino-with-metal-strip-accelerometer-and-soil-moisture-sensing/blob/main/Flow%20chart.png?raw=true)
+
 
 
 # Results/Outcome:
